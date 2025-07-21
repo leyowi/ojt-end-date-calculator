@@ -1,0 +1,1 @@
+This is a simple Python script that helps estimate the end date of an On-the-Job Training (OJT) period, given the total number of hours and the start date. It assumes an 8-hour workday and only counts weekdays.
